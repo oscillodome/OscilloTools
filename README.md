@@ -11,6 +11,8 @@ The first tool is a Frequency Gate for mono files (it actually works with stereo
 
 To download, head over to [my github repository](https://github.com/oscillodome/OscilloTools) or click the links above.
 
+I also created a M4L device. You can download it [here](http://www.maxforlive.com/library/device/3085).
+
 
 This is a fork of a first approach of the tool made by [Sam Tarakajian](http://www.otherbirds.com/about) with [Max/MSP](https://cycling74.com/products/max/).
 
